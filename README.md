@@ -30,7 +30,7 @@ I am a dedicated data enthusiast with a robust background in Power BI, driven by
 
 This industry-specific sample dashboard and accompanying report into a common Sales challenge: supplier quality analysis. The analysis centers around two key performance indicators (KPIs): total defects and total downtime resulting from these defects. By examining these metrics, stakeholders can gain valuable insights into the root causes of quality issues and identify opportunities for process improvements, ultimately driving increased efficiency and reduced costs within the supply chain.
 
-# Preview
+### Preview
 
 
 
