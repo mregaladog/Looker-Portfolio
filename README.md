@@ -21,7 +21,7 @@ Welcome to my Looker Cloud DataStudio Projects Repository, where you can explore
 
 
 ## About Me
-I am a dedicated data enthusiast with a robust background in Power BI, driven by a passion for unlocking the full potential of data. With extensive experience in transforming raw data into actionable insights, crafting interactive dashboards, and empowering businesses with data-driven decision-making, I have honed my skills in effectively communicating complex data through compelling visualizations. This portfolio serves as a testament to my proficiency in Looker Data Studio and my ability to distill complex data into clear, actionable insights.
+I am a dedicated data enthusiast with a robust background in Looker and Business Intelligence, driven by a passion for unlocking the full potential of data. With extensive experience in transforming raw data into actionable insights, crafting interactive dashboards, and empowering businesses with data-driven decision-making, I have honed my skills in effectively communicating complex data through compelling visualizations. This portfolio serves as a testament to my proficiency in Looker Data Studio and my ability to distill complex data into clear, actionable insights.
 
 ---
 
