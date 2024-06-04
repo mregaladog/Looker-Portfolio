@@ -26,11 +26,11 @@ I am a dedicated data enthusiast with a robust background in Looker and Business
 ---
 
 ---
-## [Project 1: Sales Report Dashboard](https://githubcommregaladog)
+## Project 1: Sales Report Dashboard
 
 This industry-specific sample dashboard and accompanying report into a common Sales challenge: supplier quality analysis. The analysis centers around two key performance indicators (KPIs): total defects and total downtime resulting from these defects. By examining these metrics, stakeholders can gain valuable insights into the root causes of quality issues and identify opportunities for process improvements, ultimately driving increased efficiency and reduced costs within the supply chain.
 
-### Preview
+### [Preview](https://lookerstudio.google.com/reporting/f9e6c0c8-13b9-41d3-a653-399ddd5e8ebe)
 
 
 
