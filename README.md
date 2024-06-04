@@ -35,6 +35,7 @@ This industry-specific sample dashboard and accompanying report into a common Sa
 
 
 
+![looker-sales](https://github.com/mregaladog/Looker-Portfolio/assets/171528893/c832ba90-c9e7-4eba-915b-ac5096fd2000)
 
 
 
