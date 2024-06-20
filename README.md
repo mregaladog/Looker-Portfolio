@@ -26,7 +26,27 @@ I am a dedicated data enthusiast with a robust background in Looker and Business
 ---
 
 ---
-## Project 1: Sales Report Dashboard
+## Project 1: Polls Election Betting Dashboard
+
+This is a 2024 General Election: Trump vs. Biden (2-way) presidential betting odds. By examining these metrics, you can have a glimpse that the 2024 presidential election is heating up, with the latest polls indicating a tight race between President Joe #Biden and former President Donald #Trump. As the first presidential #debate approaches, the polls continue to reflect a close contest, with both candidates receiving significant support from their respective bases.
+
+Key Findings:
+
+-Tied in the General Election: The latest polls from NPR/PBS News/Marist National #Poll and Morning Consult show Trump and Biden tied at 49% each, with Kennedy and West trailing behind.
+
+
+
+### [Preview](https://lookerstudio.google.com/reporting/18a2e282-99e8-4230-8b20-749ecae1e48f)
+
+
+
+
+![Polls election](https://github.com/mregaladog/Looker-Portfolio/assets/171528893/8567e8dd-e2c3-46ce-bfdf-82d2f265e1e5)
+
+
+&ensp;
+
+## Project 2: Sales Report Dashboard
 
 This industry-specific sample dashboard and accompanying report into a common Sales challenge: supplier quality analysis. The analysis centers around two key performance indicators (KPIs): total defects and total downtime resulting from these defects. By examining these metrics, stakeholders can gain valuable insights into the root causes of quality issues and identify opportunities for process improvements, ultimately driving increased efficiency and reduced costs within the supply chain.
 
@@ -38,9 +58,7 @@ This industry-specific sample dashboard and accompanying report into a common Sa
 ![looker-sales](https://github.com/mregaladog/Looker-Portfolio/assets/171528893/c832ba90-c9e7-4eba-915b-ac5096fd2000)
 
 
-
-
-
+&ensp;
 
 
 ## Contact Information
@@ -49,7 +67,7 @@ If you have any questions, feedback, or collaboration opportunities, please feel
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
 
-
+&ensp;
 
 ## Author
 - [<ins><b>©2024 Misael Regalado. All rights reserved</b></ins>](https://www.linkedin.com/in/mregalado/)
