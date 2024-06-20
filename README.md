@@ -28,7 +28,8 @@ I am a dedicated data enthusiast with a robust background in Looker and Business
 ---
 ## Project 1: Polls Election Betting Dashboard
 
-This is a 2024 General Election: Trump vs. Biden (2-way) presidential betting odds. By examining these metrics, you can have a glimpse that the 2024 presidential election is heating up, with the latest polls indicating a tight race between President Joe #Biden and former President Donald #Trump. As the first presidential #debate approaches, the polls continue to reflect a close contest, with both candidates receiving significant support from their respective bases.
+This is a 2024 General Election: Trump vs. Biden (2-way) presidential betting odds. By examining these metrics, you can have a glimpse that the 2024 presidential election is heating up, with the latest polls indicating a tight race between President Joe #Biden and former President Donald #Trump. As the first presidential #debate approaches, the polls continue to reflect a close contest, with both candidates receiving significant support from their respective bases. Public opinion are a valuable tool for people to form attitudes and opinions about issues of today, such as views on covid-19 restrictions, Presidential attitudesand even view toward important policies such as views toward abortion access. The results of polls can shape public opinion leading people to shift their attitudes to align them with the majority opinion. For these reasions, it is necessary to make sure the public has the capacity for understanding and interpreting thse polls.
+
 
 Key Findings:
 
